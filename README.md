@@ -40,7 +40,7 @@ brew install chromedriver
 brew install --appdir="/Applications" chrome
 ```
 
-4. Rode os testes:
+4. Rode os estes:
 
 ```bash
 cucumber features/americanas.feature
